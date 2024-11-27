@@ -1,2 +1,2 @@
 # trabalho
-Trabalho de alhoritimos e programação
+Trabalho de algoritimos e programação
